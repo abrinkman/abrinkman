@@ -1,1 +1,1 @@
-Hi there, I'm @abrinkman. I'm a cloud architect with a lot of experience in IT infrastructure, Linux and open source software stacks.
+Hi there, I'm @abrinkman. I'm a cloud architect with a lot of experience in IT infrastructure, Linux and open source software stacks. In my daily work I'm involved in container projects, building CI/CD and automation workflows and designing complex hosting solutions. In my spare time I like to experiment with new open source technologies and home automation (currently Home Assistant).
